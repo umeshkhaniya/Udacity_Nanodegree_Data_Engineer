@@ -100,7 +100,7 @@ All the data files are stored in the data folder in the main directory.
   
 ### Tools and Technologies:
 - AWS S3 data storage   
-- PySparkNeed Spark  
+- PySpark
 - Amazon Redshift cluster 
 
 To run follow the instruction: **data_analysis.ipynb**
